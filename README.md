@@ -4,6 +4,10 @@ AI-powered assistive companion for disabled users navigating computers. Hold a k
 
 ---
 
+3rd place winner - 3x Nvidia Jetson Orin Nano
+
+---
+
 ## Quick Start
 
 **Requirements:** macOS 14.2+, Xcode 15+
