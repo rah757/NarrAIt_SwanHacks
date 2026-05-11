@@ -1,6 +1,6 @@
 # Narrait
 
-AI-powered assistive companion for disabled users navigating computers. Hold a key — Narrait reads the screen, explains what's in front of you, and points to what you need to click.
+AI-powered assistive companion for disabled users navigating computers. Hold a key — Narrait reads the screen, explains what's in front of you, and points to what you need to click. It also agentically plans multi-step tasks as necessary - and assists you until you get to your end goal.
 
 ![Narrait app highlight](figures/main-highlight.png)
 
