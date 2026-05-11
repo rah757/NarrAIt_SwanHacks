@@ -2,6 +2,8 @@
 
 AI-powered assistive companion for disabled users navigating computers. Hold a key — Narrait reads the screen, explains what's in front of you, and points to what you need to click.
 
+![Narrait app highlight](figures/main-highlight.png)
+
 ---
 
 3rd place winner - 3x Nvidia Jetson Orin Nano

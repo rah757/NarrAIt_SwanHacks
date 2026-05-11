@@ -2,7 +2,7 @@
 
 > Updated automatically by Claude during work sessions. Don't overthink the format — a line is better than nothing.
 
-**Last updated:** 2026-05-03
+**Last updated:** 2026-05-10
 **Team:** musthafa · hrishikesh · rah
 
 ---
@@ -47,6 +47,7 @@ Newest first.
 
 | Date | Decision | Why |
 |---|---|---|
+| 2026-05-10 | Added `figures/main-highlight.png` and surfaced it at the top of `README.md` | Make the core product experience immediately visible to repo visitors |
 | 2026-05-03 | Replaced legacy `NSMenu` with a SwiftUI-hosted `NSPopover` (status pill + profile pills + hotkey rows) | Premium hackathon presentation; profile is one tap not two; live state visible without opening anything |
 | 2026-05-03 | Moved listening waveform and processing spinner from cursor-attached overlay into the response bubble as a leading icon | Two cursor-anchored panels were overlapping during Option / Cmd+Option; one bubble owns status now |
 | 2026-05-03 | Replaced "How to Use Narrait" `NSAlert` with a designed SwiftUI window (`HowToUseWindowController`) | Matches popover design language; gives the academic-refusal rule a visible callout instead of footnote |
